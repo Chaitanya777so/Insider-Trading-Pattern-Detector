@@ -1,4 +1,4 @@
-
+Updated documentation
 Insider Trading Pattern Detection System
 
 ## Overview
